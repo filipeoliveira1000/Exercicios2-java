@@ -1,8 +1,5 @@
 package one.digitalinnovation.basecamp;
 
-/**
- * Classe de exemplo para o exercício da Aula 2 de Métodos.
- */
 public class Quadrilatero {
 
     public static void area(double lado) {
